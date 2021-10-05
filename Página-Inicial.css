@@ -1,0 +1,102 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1317px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 274px;
+  height: 274px;
+  background-image: url("images/Wine.jpg");
+  background-position: 50% 50%;
+  margin: 163px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.4375rem;
+  font-weight: 700;
+  font-family: abril-fatface;
+  line-height: 1.2;
+  margin: 130px 0 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 63px;
+  height: 63px;
+  margin: -63px 219px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-size: 1.375rem;
+  width: 836px;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  letter-spacing: 1px;
+  border-style: none;
+  text-shadow: 0 0 0 rgba(0,0,0,0);
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  align-self: center;
+  margin: 40px auto 60px;
+  padding: 15px 62px 15px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 73px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 52px;
+    height: 52px;
+    margin-top: 24px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 22px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: 540px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.5rem;
+  }
+}
